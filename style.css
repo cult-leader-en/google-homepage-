@@ -49,14 +49,14 @@ input {
     display: flex;
     justify-content: center;
     align-items: center;
-    
+   
 }
 
 footer {
     position: fixed;
   left: 0;
   bottom: 0;
-  padding: 20px;
+  padding: 10px;
   width: 100%;
   background-color: gray;
   color: white;
@@ -69,8 +69,13 @@ header {
   left: 0;
   top: 0;
   width: 100%;
-  padding: 20px;
+  padding: 10px;
   background-color:white;
   color: white;
   text-align: center;
+}
+
+button {
+    padding: 5px 10px;
+    margin: 10px;
 }
